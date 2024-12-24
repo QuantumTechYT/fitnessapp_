@@ -6,5 +6,6 @@ Some features needed to be changed/added
 - email password login
 - fitness data
 - buttons underneath profile > edit profile, need a function
+- Dark mode enability
 ------------------------------------------------------------
 
